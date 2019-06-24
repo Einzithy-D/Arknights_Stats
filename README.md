@@ -9,3 +9,8 @@
  
  - MS.xlsx  
    @水晶泡芙工坊 搜集的数据
+
+
+ - 友情链接  
+   @水晶泡芙 @喵佬 他们的 工具箱 https://aktools.graueneko.xyz  
+   企鹅数据 https://penguin-stats.io  
