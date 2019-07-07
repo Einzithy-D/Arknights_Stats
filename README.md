@@ -14,7 +14,7 @@
    补充数据的R code
    数据来源 https://bbs.nga.cn/read.php?tid=17676887  
    
- - MS_diff_def.R
+ - MS_diff_def.R  
    考虑到Issues中所提及的不同的定义，序列以 1 开头时候的补充情况
 
  - 友情链接  
